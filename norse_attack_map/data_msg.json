@@ -1,0 +1,54 @@
+{"event":"#publish",
+"data":{
+	"channel":"global",
+	"data":[
+		{
+		"vector_id":303241870064,
+		"latitude":46.48,
+		"longitude":30.73,
+		"countrycode":"UA","country":"UA","city":"Odessa",
+		"latitude2":34.1,
+		"longitude2":-118.45,
+		"countrycode2":"US",
+		"country2":"US",
+		"city2":"Los Angeles",
+		"md5":"78.26.255.116",
+		"dport":23,"svc":23,
+		"type":"ipviking.honey",
+		"org":"Renome-Service Joint Multimedia Cable Network",
+		"zerg":"rush"
+		},
+
+		{
+		"vector_id":303241870074,
+		"latitude":46.48,
+		"longitude":30.73,
+		"countrycode":"UA","country":"UA","city":"Odessa",
+		"latitude2":34.1,
+		"longitude2":-118.45,
+		"countrycode2":"US",
+		"country2":"US",
+		"city2":"Los Angeles",
+		"md5":"78.26.255.116",
+		"dport":23,
+		"svc":23,
+		"type":"ipviking.honey",
+		"org":"Renome-Service Joint Multimedia Cable Network",
+		"zerg":"rush"
+		},
+	
+		{
+		"vector_id":303241870084,
+		"latitude":46.48,"longitude":30.73,
+		"countrycode":"UA","country":"UA","city":"Odessa",
+		"latitude2":34.1,
+		"longitude2":-118.45,
+		"countrycode2":"US",
+		"country2":"US",
+		"city2":"Los Angeles",
+		"md5":"78.26.255.116",
+		"dport":23,"svc":23,
+		"type":"ipviking.honey",
+		"org":"Renome-Service Joint Multimedia Cable Network","zerg":"rush"}]
+	},	
+	"cid":762}
